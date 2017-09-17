@@ -1,0 +1,12 @@
+.navbar {
+  border-radius: 0px;
+}
+p#fav {
+	color: rgb(76, 155, 224);
+}
+a.btn.btn-default{
+	color: rgb(76, 155, 224);
+}
+.price {
+	color: red;
+}
